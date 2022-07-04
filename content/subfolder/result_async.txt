@@ -1,1 +1,1 @@
-The result is : First test file, Second test file
+This is awesome: First test file
